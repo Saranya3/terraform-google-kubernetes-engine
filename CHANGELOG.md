@@ -6,6 +6,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 Extending the adopted spec, each change should have a link to its corresponding pull request appended.
 
+## [41.0.3](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/compare/v41.0.2...v41.0.3) (2025-11-17)
+
+
+### Bug Fixes
+
+* additional_ip_ranges_config ([#2458](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/issues/2458)) ([839093c](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/commit/839093c484f34c0276240bf8a299b2dc5f5602f6))
+
 ## [41.0.2](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/compare/v41.0.1...v41.0.2) (2025-11-07)
 
 
